@@ -1,4 +1,4 @@
-# Traffic-Sign-Detection-Project
+# Traffic-Sign-Detection-Project (semester-05)
 Proper management of traffic-sign inventory is an essential task to ensure safety and
 efficiency in the flow of traffic. It is mainly done in manual mode. Traffic signs are
 captured using a vehicle-mounted camera, and manual localization and recognition
